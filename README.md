@@ -11,7 +11,7 @@ import Desenvolvedor from 'Calebe';
 class SobreMim extends Desenvolvedor {
   nome     = 'Calebe Fernandes ';
   area    = 'Desenvolvimento de Software';
-  graduação = 'Engenharia da Computação (UTFPR) - 5º período';
+  graduação = 'Engenharia da Computação (UTFPR) - Em andamento';
 }
 
 class Skills extends Desenvolvedor {
